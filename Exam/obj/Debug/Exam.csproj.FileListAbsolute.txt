@@ -1,0 +1,6 @@
+C:\Users\atokarev2\Documents\GitHub\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\atokarev2\Documents\GitHub\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\atokarev2\Documents\GitHub\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\atokarev2\Documents\GitHub\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\atokarev2\Documents\GitHub\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\atokarev2\Documents\GitHub\Exam\Exam\obj\Debug\Exam.pdb
